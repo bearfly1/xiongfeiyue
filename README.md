@@ -1,3 +1,3 @@
 # xiongfeiyue
-hello-world
-my name is a girl,I like eating apple!
+hello-world!
+I'm LUCY,a girl.I like eating apple!
